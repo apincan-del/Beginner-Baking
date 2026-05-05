@@ -7,7 +7,7 @@ A project to generate a free and simple digital collection site using [GitHub Pa
 
 Visit the [demo site](https://collectionbuilder.github.io/collectionbuilder-gh/).
 
-## Build a Digital Collection
+## Build a Digital Collection.
 
 Gather your digital objects together and create your metadata using the [CollectionBuilder-GH Metadata Template](https://docs.google.com/spreadsheets/d/1Uv9ytll0hysMOH1j-VL1lZx6PWvc1zf3L35sK_4IuzI/copy) and [metadata docs](https://collectionbuilder.github.io/cb-docs/docs/metadata/gh_metadata/). 
 
