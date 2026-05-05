@@ -14,12 +14,19 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+# About This Collection
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+Welcome to my Beginner Baking collection!
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+This site is a growing archive of my baking experiments, recipes, and notes as I learn foundational baking techniques. 
+
+I began baking in the summer of 2025 as a complete beginner, and all of the bakes featured in this collection were completed within my first year of serious baking.
+
+While I value approachable, beginner-friendly recipes, this collection challenges the assumption that early baking should remain limited to simple, familiar desserts. Recipes such as sourdough, French pastries, and enriched breads require time, patience, and attention, but remain accessible at the earliest stages of learning. 
+
+
+
+{% include cb/about_the_about.md %}
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
