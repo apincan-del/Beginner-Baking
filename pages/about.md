@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
@@ -26,7 +26,7 @@ While I value approachable, beginner-friendly recipes, this collection challenge
 
 
 
-{% include cb/about_the_about.md %}
+
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
